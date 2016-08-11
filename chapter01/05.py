@@ -1,3 +1,5 @@
+#!/usr/bin env python
+# -*- coding: utf-8 -*-
 '''
 05. n-gram
 与えられたシーケンス（文字列やリストなど）からn-gramを作る関数を作成せよ．
